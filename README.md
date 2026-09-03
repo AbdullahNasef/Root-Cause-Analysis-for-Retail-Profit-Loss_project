@@ -46,3 +46,10 @@ The structural root cause behind the company's profit loss is **not** aggressive
 * **Data Modeling:** Pivot Tables & Advanced Formulas (`CORREL`, `AVERAGEIFS` ,`VLOOKUP` , `XLOOKUP` )
 * **Data Visualization:** Excel Dashboards, Scatter Bubble Plots, Doughnut Charts
 * **Methodology:** Diagnostic Analytics, MECE Framework, Root Cause Analysis (RCA)
+* 
+## 🖥️ Overview Dashboard
+
+![Full Year Dashboard](full_dashboard.png)
+
+### 📅 Monthly Performance Sample
+![Monthly Dashboard](monthly_dashboard.png)
